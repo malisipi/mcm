@@ -1,0 +1,99 @@
+Ubuntu Touch is a mobile version of the Ubuntu operating system, being developed by the UBports community.[4][5][6] Its user interface is written in Qt, and is designed primarily for touchscreen mobile devices such as smartphones and tablet computers, but the original goal of convergence was intended to bring Ubuntu Touch to laptops, desktops, IOT devices and TVs for a complete unified user experience.
+
+The project was started by Canonical Ltd. but Mark Shuttleworth announced that Canonical would terminate support due to lack of market interest on 5 April 2017.[7][8] It was then adopted by UBports as a community project.[9] The UBports project was seeded by Marius Gripsgard in 2015 and the source code was transferred to the UBports Foundation where it now resides.[10] UBports' mission is to support the collaborative development of Ubuntu Touch and to promote its widespread use.[11]
+History
+
+The Ubuntu Touch project was started in 2011. Mark Shuttleworth announced on 31 October 2011 that by Ubuntu 14.04, the goal was that Ubuntu would support smartphones, tablets, smart TVs and other smart screens (such as car head units and smartwatches),[12] but to date has only been supported by vendors on a few smartphones, one tablet and a number of third-party devices which hobbyists have ported the operating system to. The initial goal set by Shuttleworth for Ubuntu was to reach full convergence (same platform and libraries on all devices).[13] The Ubuntu platform for phones was unveiled on 2 January 2013.[14] The Ubuntu Touch Developer Preview was released on 21 February 2013.[15] On 22 July 2013 Ubuntu announced a crowdfunding campaign for the Ubuntu Edge smartphone that would run Ubuntu Touch,[16] but it did not reach its funding target.[17]
+Ubuntu Touch on a Fairphone 2, showing the lockscreen
+
+Canonical released Ubuntu Touch 1.0, the first developer/partner version on 17 October 2013, along with Ubuntu 13.10 that "primarily supports the Galaxy Nexus and Nexus 4 phones, though there are images available for other phones and tablets",[18] and released a "relatively 'stable' build for wider testing and feedback" on 17 April 2014,[19] along with Ubuntu 14.04. A preview version of the software is available for installation on certain additional Android handsets including the Samsung Galaxy S4 Google Edition as a Developer Preview as of 21 February 2013. Developers have access to all of the source code under a license allowing modification and redistribution of the software.[15]
+
+Ubuntu Touch was released to manufacturers on 16 September 2014.[20] BQ Aquaris E4.5 Ubuntu Edition, the world's first Ubuntu-based smartphone went on sale in Europe on 9 February 2015.[21]
+
+In April 2016, the world's first Ubuntu-based tablet, the BQ Aquaris M10 Ubuntu Edition, was released.[22]
+
+In August 2016, OTA-3 was announced to support Android 6.0 BSP.[23]
+
+In August 2018, UBPorts released its OTA-4, upgrading the Ubuntu Touch's base from the Canonical's starting Ubuntu 15.04 "Vivid Vervet" to the nearest, current long-term support version Ubuntu 16.04 LTS "Xenial Xerus".[24]
+Ubuntu for Android
+
+Ubuntu for Android was a variant of Ubuntu designed to run on Android phones.[25] It was expected to come pre-loaded on several phones.[26] An Ubuntu for Android mock-up was shown at Mobile World Congress 2012.[27][28] As of April 2014, this project is no longer under active development by Canonical.[29][30]
+
+It would contain different graphical interfaces: when the device is connected to a desktop monitor, it features a standard Ubuntu Desktop interface (Unity). When the device is connected to a TV, the interface featured is the Ubuntu TV experience.[31] It would have the ability to run standard Ubuntu Desktop applications[32] and also the ability to run Android applications on the Ubuntu Desktop.[33] which includes apps to make and receive calls and SMS messages directly from the desktop.[32][34] Developers will be able to create one app, with two interfaces: a smartphone UI, and, when docked, a desktop UI.[35]
+
+A phone running Ubuntu for Android has to meet several requirements such as a dual-core 1 GHz CPU, video acceleration through a shared kernel driver with associated X driver; OpenGL, ES/EGL, 2 GB storage, HDMI for video-out with secondary frame buffer device, USB host mode and 512 MB RAM.[32]
+Ubuntu Mobile
+Ubuntu Mobile desktop interface
+
+Ubuntu Mobile Internet Device Edition is a discontinued Ubuntu distribution planned to run on the Intel Mobile Internet Device platform, x86 mobile computers based on the Intel Atom processor. It was planned to use the GNOME framework Hildon as the basis for its GUI. In June 2008, Ubuntu Mobile 8.04 was released.[36][37] Ubuntu Mobile ended active development in 2009 after 9.10 Alpha 6.[38]
+
+Equipment producers would have been able to customize their distributions, including options such as Flash, Java, or custom interfaces.[39]
+
+According to Canonical, Ubuntu Mobile would provide an "uncompromised Web 2.0 experience". It was to include features such as Web browsing, email, media, camera, VoIP, instant messaging, GPS, blogging, digital TV, games, contacts, and calendars, with regular software updates.[39]
+Features
+
+Ubuntu Touch uses the Qt 5-based[40] touch user interface and various software frameworks originally developed for Maemo and MeeGo such as oFono as telephony stack,[41] accounts-sso for single sign-on,[42][43] and Maliit for input.[44] Using libhybris[45][46] the system can often be used with Linux kernels used in Android, which makes it easily ported to most recent Android smartphones.[47]
+
+Libertine is Ubuntu's project to run traditional desktop X applications.[48]
+Lock screen
+
+When Ubuntu Touch is turned on no lock screen immediately appears, as applications will prompt the user to unlock if necessary when they are opened. The centre of the "Welcome Screen" is a visualisation of activity on the device. It shows the user's status and recent events on the welcome screen, completed with a design around the circle which reflects activity on the phone over the preceding month.[49]
+Included applications
+A Fairphone 2 smartphone running Ubuntu Touch displaying the Apps scope
+
+Ubuntu Touch includes core applications such a calculator, an e-mail client, an alarm clock, a file manager, and even a terminal among others. Twelve or more core applications are currently being developed.[50] Several Ubuntu Touch applications work on the desktop as well, including Browser, Calendar, Clocks, Gallery, Notes, Reminders, Terminal, and Weather.[51]
+Side stage
+
+Side stage was introduced in 2013[52] and allows users to run both "tablet apps" and "phone apps" side by side, resizing each on the top as and when you need to see more of them.[53][54] It aims to "go even further" with the idea of multitasking, allowing screen space to be divided in this manner. Examples shown in the announcement video included a notes app being used alongside a web browser, and a user swiping from the right edge to bring a mobile version of the Facebook app into view over a playing video.
+Design
+
+Users can access the whole system by swiping from the edges of the screen. A short swipe from the left edge allows for instant access to applications pinned to the launcher, while swiping all the way across reveals the home scope, which can be set by the user. This menu is available from the home screen and any running app.[55]
+
+Ubuntu Touch's multitasking is accessed by swiping the finger from the right edge of the screen to the left, which switches to the previous application (short swipe) or shows all open apps (long swipe). Swiping up from the bottom is used to show or hide tools specific to the app being used, which gives Ubuntu Phone the ability to run applications with a large, uncluttered canvas by default.[56]
+Target market
+
+Mark Shuttleworth, the founder of the company Canonical Ltd., believed that Ubuntu for phones will first find a niche in countries where Ubuntu is well known; more specifically, developing markets such as India and China where computers have Ubuntu pre-installed. However, the success of Ubuntu Phone in these markets is difficult to predict.[57]
+
+Despite Ubuntu's popularity among open source developers, penetrating the legacy-bound business market will continue to be somewhat challenging for Ubuntu. Companies employing the "bring your own device" (BYOD) method have already adapted to using Android and iOS devices and the benefits posed by Ubuntu may not be adequately considered.[58]
+Requirements
+Hardware
+
+Ubuntu Touch requires that a system's CPU support certain hardware features.
+System requirements for smartphones[59] Criteria 	Mid to high end devices
+Processor architecture 	ARM Cortex-A7
+Memory 	1 GB
+Flash storage 	8 GB eMMC
+Multi-touch 	Yes
+
+
+Ubuntu tablet hardware requirements[60] 	Entry level consumer Ubuntu tablet 	High-end Ubuntu enterprise tablet
+Processor architecture 	Dual-core ARM Cortex-A15 	Quad-core ARM Cortex-A15 or Intel x86
+Memory 	2 GB preferred 	4 GB preferred
+Flash storage 	8 GB minimum 	8 GB minimum
+Screen size 	7–10-inch 	10–12-inch
+Multi-touch 	4 fingers 	4–10 fingers
+Full desktop convergence 	No 	Yes
+Software
+
+Ubuntu Touch can be installed on a number of phones that originally appeared with Android.[61] It is necessary for these devices to offer an open source tree, so that the drivers can be recompiled for the new OS.[62]
+Reception
+
+Adrian Covert, writing for CNN on 2 January 2013, predicted that the operating system will not gain wide use, stating, "carving out a niche in the seemingly unshakable mobile space—ruled by the Android-and-Apple duopoly—still requires a critical mass of users and a lively ecosystem of app developers. Realistically speaking, the chances of this even upstaging Windows Phone or BlackBerry 10 are slim. At best, Ubuntu seems like a sandbox for the most enthusiastic early adopters and a cheap enterprise solution for companies on a tight budget."[63]
+
+Joey Sneddon of OMG! Ubuntu disagreed with Covert's assessment, writing, "commentators like Covert are missing the point. See, Ubuntu Phones aren't really going to claw much market share away from Apple or Google. And this neat 'dock your phone and use it as a desktop' feature, whilst innovative, won't be the main lure for many […]. During his keynote address earlier this week, Mark Shuttleworth continually referred to 'emerging' markets as the battleground on which an Ubuntu Phone would fight it out for impact […]. It's this sector, the low-end, that the battle for the hearts, minds and hands of the less tech-savvy will take place."[64]
+
+Rich Trenholm writing for CNET on 27 February 2013, "[…] But on first impression I'm hugely taken with Ubuntu Touch. It's elegant, thoughtful, and versatile, while remaining beautifully straightforward. […] it's by far the strongest potential rival to Android, iOS, and Windows Phone. In fact, I prefer it to iOS, which long ago lost its shine, and heck, maybe even to Android, too. Fingers crossed that manufacturers and phone carriers get behind it, because I'd happily lay down my own cash for an Ubuntu Touch phone."[65]
+
+Jason Jenkins, writing for CNET on 27 February 2013, MWC Awards 2013, "[…] Lots was said about the impressive number of carriers and manufacturers Firefox OS has lined up behind it. But once put to a vote, Ubuntu Touch was the clear winner, with Firefox OS the runner-up. The team thought that Ubuntu Touch, the tablet version of which we got our hands-on for the first time at MWC, feels more like the complete package at this point. […]"[66]
+
+Jesse Smith from DistroWatch Weekly reviewed the Ubuntu Phone in Meizu Pro 5 lauding the price, interface, responsiveness and frequency of updates, calling it a "pleasant phone and communications experience" and distinguished it as a user-oriented device as opposed to Android's application-oriented nature and noted that it would be more likely to appeal to those interested in technology—Linux fans in particular—but was too new to appeal to the public at large. This was due, in part, to the limited selection of phone apps, partially due to the small size of the market, but stated that LibreOffice and GIMP were available. It took him a while to understand what differentiated scopes from applications. He also noted that the platform was free of advertisements.[67]
+Commercially available devices
+
+The first smartphone with Ubuntu Touch preinstalled was the BQ Aquaris E4.5 Ubuntu Edition in February 2015[68] and it was sold only in the European Union. Three months after, in May 2015, the Meizu MX4 Ubuntu Edition went on sale in China, becoming the second Ubuntu phone.[69] On 9 June 2015, launched another device running Ubuntu Touch, the Aquaris E5 Ubuntu Edition.[70] The first tablet released was the Aquaris M10 Ubuntu Edition; it was announced on 5 February 2016 and made publicly available two months later.[71] In April 2016, the same month as the Aquaris M10, the Meizu PRO 5 Ubuntu Edition was released.[72] During this time period, BQ was also working on the first 'Convergent' Ubuntu Phone and the planned launch date was initially 2015 then pushed back to 2016. In 2018, Purism and the UBports Foundation began collaborating on making Ubuntu Touch available for the Librem 5.[73] The PinePhone from Pine64 was made available for preorder on 15 November 2019 with support for Ubuntu Touch along with many other FOSS mobile operating systems.[74] With the release of OTA-15[75] in December 2020, Ubuntu Touch began supporting the FX Technology Ltd. F(x)tec Pro1 (2019)[citation needed] and Pro1 X (2022)[76][77] phones.[77][78] The Volla Phone from Hallo Welt Systeme UG launched with official support for Ubuntu Touch in December 2020 as well.[79]
+See also
+
+    Free and open-source software portaliconLinux portal
+
+    Comparison of mobile operating systems
+    Ubiquitous computing
+    Ubuntu Touch devices

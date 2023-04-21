@@ -1,0 +1,187 @@
+Windows Mobile was a family of mobile operating systems developed by Microsoft for smartphones and personal digital assistants.[1]
+
+Its origin dated back to Windows CE in 1996, though Windows Mobile itself first appeared in 2000 as Pocket PC 2000 which ran on Pocket PC PDAs. It was renamed "Windows Mobile" in 2003, at which point it came in several versions (similar to the desktop versions of Windows) and was aimed at business and enterprise consumers. When initially released in the mid-2000s, it was to be the portable equivalent of what Windows desktop OS was: a major force in the then-emerging mobile/portable areas.
+
+Following the rise of newer smartphone OSs (iOS and Android) Windows Mobile never equalled the success and faded rapidly in the following years. By February 2010, Microsoft announced the more modern and consumer-focused Windows Phone to supersede Windows Mobile. As a result, Windows Mobile has been deprecated since existing devices and software are incompatible with Windows Phone.[2][3][4] The last version of Windows Mobile, released after the announcement of Windows Phone, was 6.5.5. After this, Microsoft ceased development on Windows Mobile in order to concentrate on Windows Phone.
+
+Microsoft released a similarly-named Windows 10 Mobile in 2015 which was part of the Windows Phone series, and it is unrelated to the former Windows Mobile operating systems.
+Features
+
+Most versions of Windows Mobile have a standard set of features, such as multitasking and the ability to navigate a file system similar to that of Windows 9x and Windows NT, including support for many of the same file types. Similarly to its desktop counterpart, it comes bundled with a set of applications that perform basic tasks. Internet Explorer Mobile is the default web browser, and Windows Media Player is the default media player used for playing digital media. The mobile version of Microsoft Office is the default office suite.[citation needed]
+
+Internet Connection Sharing, supported on compatible devices, allows the phone to share its Internet connection with computers via USB and Bluetooth. Windows Mobile supports virtual private networking over PPTP protocol. Most devices with mobile connectivity also have a Radio Interface Layer. The Radio Interface Layer provides the system interface between the Cell Core layer within the Windows Mobile OS and the radio protocol stack used by the wireless modem hardware. This allows OEMs to integrate a variety of modems into their equipment.[citation needed]
+
+The user interface changed dramatically between versions, only retaining similar functionality. The Today Screen, later called the Home Screen, shows the current date, owner information, upcoming appointments, e-mails, and tasks. The taskbar displays the current time as well as the volume level. Devices with a cellular radio also show the signal strength on said taskbar.[citation needed]
+History
+An Alpha build of WinPad in the early days of development showing off stylus compatibility
+
+Windows Mobile is based on the Windows CE kernel and first appeared as the Pocket PC 2000 operating system. It includes a suite of basic applications developed with the Microsoft Windows API, and is designed to have features and appearance somewhat similar to desktop versions of Windows. It allowed third party developers to develop software for Windows Mobile with no restrictions imposed by Microsoft. Software applications were purchasable from Windows Marketplace for Mobile during the service's lifespan.[citation needed]
+
+Most early Windows Mobile devices came with a stylus, which can be used to enter commands by tapping it on the screen.[5] The primary touch input technology behind most devices were resistive touchscreens which often required a stylus for input. Later devices used capacitive sensing which does not require a stylus. Along with touchscreens, a large variety of form factors existed for the platform. Some devices featured slideout keyboards, while others featured minimal face buttons.[citation needed]
+Windows CE
+Main article: Windows CE
+
+Microsoft's work on handheld portable devices began with research projects in 1990, with the work on Windows CE beginning in 1992.[6] Initially, the OS and the user interface were developed separately. With Windows CE being based on Windows 95 code and a separate team handing the user interface which was codenamed WinPad (later Microsoft At Work for Handhelds).[6] Windows 95 had strong pen support making porting easy; with some saying "At this time, Windows 95 offers outstanding pen support. It is treating pens right for the first time."[7] WinPad was delayed due to price and performance issues,[8] before being scrapped in early 1995 due to touchscreen driver problems relating to WriteTouch technology, made by NCR Microelectronic Products.[7] Although WinPad was never released as a consumer product, Alpha builds were released showcasing many interface elements.[9] During development of WinPad a separate team worked on a project called Pulsar; designed to be a mobile communications version of WinPad, described as a "pager on Steroids".[6] This project was also canceled around the same time as WinPad. The two disbanded groups would form the Pegasus project in 1995. Pegasus would work on the hardware side of the Windows CE OS, attempting to create a form factor similar to a PC-esque PDA like WinPad, with communications functionality like Pulsar. Under the name Handheld PC, a hardware reference guide was created and devices began shipping in 1996, although most of these device bore little resemblance to the goal of a pen-based touchscreen handheld device.[10] A specification for a smaller form factor under the name Palm-size PC was released in 1998.[10]
+Pocket PC 2000
+Pocket PC 2000 Today Screen
+Main article: Pocket PC 2000
+
+Pocket PC 2000, originally codenamed "Rapier",[11] was released on April 19, 2000, and was based on the Windows CE 3.0 kernel.
+
+Pocket PC 2000 was the debut of what was later to become the Windows Mobile operating system, and was meant to be a successor to the operating system aboard Palm-size PCs. Backwards compatibility was retained with such Palm-size PC applications.
+
+Pocket PC 2000 was intended mainly for Pocket PC devices; however, several Palm-size PC devices had the ability to be updated also. Furthermore, several Pocket PC 2000 phones were released (under the name Handheld PC 2000), however at this time, Microsoft's "Smartphone" hardware platform had not yet been created.
+
+At this time, Pocket PC devices had not been standardized with a specific CPU architecture. As a result, Pocket PC 2000 was released on multiple CPU architectures, such as SH-3, MIPS, and ARM. The only resolution supported by this release was 240 x 320 (QVGA). Removable storage card formats that were supported were CompactFlash and MultiMediaCard. Infrared (IR) File beaming capability was among the original hardware features.[citation needed]
+
+Aesthetically, the original Pocket PC operating system was similar in design to the then-current Windows 98, Windows 2000, and the yet-to-be-released Windows Me desktop operating systems. Crucially, the Pocket PC had a less cluttered interface more suitable for a mobile device, unlike the interface on predeceasing Palm-size PCs.[10] Mainstream support for Pocket PC 2000 ended on September 30, 2005, and extended support ended on October 9, 2007.[citation needed]
+
+This initial release had multiple built-in applications,[12] many of them similarly branded to match their desktop counterparts; such as Microsoft Reader, Microsoft Money, Pocket Internet Explorer and Windows Media Player. A version of Microsoft Office called Pocket Office was also bundled and included Pocket Word, Pocket Excel and Pocket Outlook. Notes, a note-taking app saw its first release and would be supported by most later versions of Windows Mobile. Intelligent character recognition support allowed Notes to distinguish styles of handwriting to be learned by the OS during processing to improve accuracy and recognition levels.[citation needed]
+Pocket PC 2002
+Pocket PC 2002 Today Screen
+Main article: Pocket PC 2002
+
+Pocket PC 2002, originally codenamed "Merlin",[11] was released in October 4, 2001, and was based on the Windows CE 3.0 kernel, like with Pocket PC 2000.[citation needed]
+
+Although targeted mainly for 240×320 (QVGA) Pocket PC devices, Pocket PC 2002 was also used for Pocket PC phones (Pocket PC 2002 Phone Edition), and for the first time, smartphones (Smartphone 2002).[13] These Pocket PC 2002 Smartphones were mainly GSM devices. With future releases, the Pocket PC and Smartphone lines would increasingly collide as the licensing terms were relaxed allowing OEMs to take advantage of more innovative, individual design ideas.
+
+Aesthetically, Pocket PC 2002 was meant to be similar in design to the then newly released Windows XP. Newly added or updated programs include[14][15][16][17] Windows Media Player 8 with streaming capability; MSN Messenger, and Microsoft Reader 2, with Digital rights management support. Upgrades to the bundled version of Office Mobile include a spell checker and word count tool in Pocket Word and improved Pocket Outlook. Connectivity was improved with file beaming on non-Microsoft devices such as Palm OS, the inclusion of Terminal Services and Virtual private networking support, and the ability to synchronize folders. Other upgrades include an enhanced UI with theme support and savable downloads and WAP in Pocket Internet Explorer.
+Windows Mobile 2003
+Windows Mobile 2003 for Pocket PC Today Screen
+Main article: Windows Mobile 2003
+
+Windows Mobile 2003, initially named as Pocket PC 2003 and originally codenamed "Ozone",[11] was the first release under the Windows Mobile banner, released on June 23, 2003, based on the Windows CE 4.x kernel.
+
+It came in four editions: "Windows Mobile 2003 for Pocket PC Premium Edition", "Windows Mobile 2003 for Pocket PC Professional Edition", "Windows Mobile 2003 for Smartphone" and "Windows Mobile 2003 for Pocket PC Phone Edition". The last was designed especially for Pocket PCs which include phone functionalities. The Professional Edition was used in Pocket PC budget models. It lacked a number of features that were in the Premium Edition, such as a client for L2TP/IPsec VPNs. All versions of Windows Mobile 2003 were powered by Windows CE 4.20.
+
+Communications interface were enhanced with Bluetooth device management, which allowed for Bluetooth file beaming support, Bluetooth headset support and support for Bluetooth add-on keyboards. A pictures application with viewing, cropping, e-mail, and beaming support was added. Multimedia improvements included MIDI file support as ringtones in Phone Edition and Windows Media Player 9.0 with streaming optimization. A puzzle game titled Jawbreaker is among the preinstalled programs. GAPI was included with this release to facilitate the development of games for the platform.[18]
+
+Other features/built-in applications included the following:[19] enhanced Pocket Outlook with vCard and vCal support, improved Pocket Internet Explorer and SMS reply options for Phone Edition.
+Windows Mobile 2003 SE
+
+Windows Mobile 2003 Second Edition, also known as "Windows Mobile 2003 SE", was released on March 24, 2004, and first offered on the Dell Axim x30. It was based on the Windows CE 4.x kernel. This was the last version which allowed users to back up and restore an entire device through ActiveSync.
+
+This upgrade allows users to switch between portrait and landscape modes and introduces a single-column layout in Pocket Internet Explorer. It includes support for Wi-Fi Protected Access (WPA) and new screen resolutions: 640×480 (VGA), 240×240, and 480×480. It was powered by the same OS as with Windows Mobile 2003, which was Windows CE 4.20.
+Windows Mobile 5
+Windows Mobile 5.0 Today Screen
+Main article: Windows Mobile 5.0
+
+Windows Mobile 5.0, originally codenamed "Magneto",[11] was released at Microsoft's Mobile and Embedded Developers Conference 2005 in Las Vegas, May 9–12, 2005, and was based on the Windows CE 5.0 kernel.
+
+Microsoft offered mainstream support for Windows Mobile 5 through October 12, 2010, and extended support through October 13, 2015.[20] It was first offered on the Dell Axim x51. It used the .NET Compact Framework 1.0 SP3, an environment for programs based on .NET. Windows Mobile 5.0 included Microsoft Exchange Server "push" functionality improvements that worked with Exchange 2003 SP2.[21] The "push" functionality also required vendor/device support.[22] With AKU2 software upgrades all WM 5.0 devices supported DirectPush.
+
+Other features included an enhanced battery-saving capability called persistent storage capability. Previously up to 50% (enough for 72 hours of storage) of battery power was reserved just to maintain data in volatile RAM. This continued the trend of Windows-based devices moving from using RAM as their primary storage medium to the use of a combination of RAM and flash memory (in use, no distinction between the two is obvious to users). Programs and frequently accessed data run in RAM, while most storage is in the flash memory. The OS seamlessly moves data between the two as needed. Everything is backed up in the flash memory, so unlike prior devices, WM5 devices lose no data if power is lost. New to 5.0, OS updates were released as adaptation kit upgrades, with AKU 3.5 being the final released.
+
+Windows Mobile 5 comes with Microsoft Office Mobile which includes PowerPoint Mobile, Excel Mobile with graphing capability and Word Mobile with the ability to insert tables and graphics. Media management and playback was enhanced with Picture and Video package, which converged the management of videos and pictures and Windows Media Player 10 Mobile. Among new hardware features were enhanced Bluetooth support, default QWERTY keyboard-support and a management interface for Global Positioning System (GPS). Improvements were made to ActiveSync 4.2 with 15% increased synchronization speed. Business customers benefited from a new error reporting facility similar to that present in desktop and server Windows systems. Caller ID now supports photos so a user can apply an image to each contact to show when a call is received. DirectShow was also natively added. This release was the first to include DirectDraw with hardware acceleration, replacing the deprecated graphics component of GAPI.[18]
+
+Windows Mobile 5.0 requires at least 64 MB of ROM (it's advisable to have 64 MB of RAM), and the device must run an ARM compatible processor such as the Intel XScale or the Samsung and Texas Instruments ARM compatibles.[23]
+Windows Mobile 6
+Main article: Windows Mobile 6.0
+
+Windows Mobile 6, formerly codenamed "Crossbow",[11] was released on February 12, 2007[24] at the 3GSM World Congress 2007 and was based on the Windows CE 5.2 kernel.
+
+It comes in three different versions: "Windows Mobile 6 Standard" for Smartphones (phones without touchscreens), "Windows Mobile 6 Professional" for Pocket PCs with phone functionality, and "Windows Mobile 6 Classic" for Pocket PCs without cellular radios.[25]
+
+Windows Mobile 6 is powered by Windows CE 5.0 (version 5.2) and is strongly linked to the then newly introduced Windows Live[26] and Exchange 2007 products. Windows Mobile 6 Standard was first offered on the Orange's SPV E650,[27] while Windows Mobile 6 Professional was first offered on the O2's Xda Terra.[28] Aesthetically, Windows Mobile 6 was meant to be similar in design to the then newly released Windows Vista. Functionally, it works much like Windows Mobile 5, but with much better stability.
+
+Along with the announcement of Office Mobile 6.1[29] with support for Office 2007 document formats (pptx, docx, xlsx); OneNote Mobile, a companion to Microsoft Office OneNote was added to the already installed version. In addition to the newly included programs with Office Mobile improvements were made to existing applications. Such as HTML email support in Outlook Mobile. A large number of Windows Mobile users are enterprise users business environments were targeted. With Server Search on Microsoft Exchange 2007, Out of Office Replies with Microsoft Exchange 2007, and search ability for contacts in an Exchange Server Address Book being implemented. To aid development for programmers, .NET Compact Framework v2 SP2 is now preinstalled with the OS. Developers and users also have access to Microsoft SQL Server 2005 Compact Edition for storage and retrieval of information. AJAX, JavaScript, and XMLDOM support were added to Internet Explorer Mobile along with improved devicewide Internet Sharing. Communication abilities were further enhanced with a new Microsoft Bluetooth Stack and VoIP (Internet calling) support with acoustic echo cancellation and MSRT audio codec.
+
+To improve security Microsoft added Storage Card Encryption so that encryption keys are lost if device is cold-booted. Further updates both, security and feature, can now also be provided using Operating System Live Update.[30]
+
+Among other improvements:[31] 320×320 and 800×480 (WVGA) screen resolution support (The S01SH or "Em One" by Sharp was the first and only device to have an 800×480 screen on WM5),[32] Improved Remote Desktop access[33] (available for only certain Pocket PCs),[34] Customer Feedback option,[35] Smartfilter for searching within programs and Unlicensed Mobile Access (UMA) support for select operators.
+Windows Mobile 6.1
+Windows Mobile 6.1 Today Screen
+Main article: Windows Mobile 6.1
+
+Windows Mobile 6.1 was announced April 1, 2008, and was based on the Windows CE 5.x kernel.
+
+It is a minor upgrade to the Windows Mobile 6 platform with various performance enhancements and a redesigned Home screen featuring horizontal tiles that expand on clicking to display more information, although this new home screen is featured only on Windows Mobile Standard edition. This was not supported in the Professional edition.[36] Several other changes such as threaded SMS, full page zooming in Internet Explorer and 'Domain Enroll' were also added, along with a "mobile" version of the Microsoft OneNote program and an interactive "Getting Started" wizard. Domain Enroll is functionality to connect the device to System Center Mobile Device Manager 2008, a product to manage mobile devices.[37] Windows Mobile 6.1 also had improved bandwidth efficiency in its push-email protocol ActiveSync up to 40%;[38] this considerably improved battery life in many devices.
+
+Aside from the visual and feature distinctions, the underlying CE versions can be used to differentiate WM 6.0 from WM 6.1. The version of Windows CE in WM 6.0 is 5.2.*, where the third and final number being a four-digit build ID (e.g. 5.2.1622 on HTC Wing). In WM 6.1, the CE version is 5.2.* with a five-digit build number (e.g. 5.2.19216 on Palm Treo 800w).
+Windows Mobile 6.5
+Windows Mobile 6.5 Today Screen
+Main article: Windows Mobile 6.5
+
+Windows Mobile 6.5 is a stopgap update to Windows Mobile 6.1, based on the Windows CE 5.x kernel, intended to bridge the gap between version 6.1 and the then yet-to-be released Windows Mobile 7 (Later canceled in favor of Windows Phone 7), that arrived in 2010. It was never part of Microsoft's mobile phone roadmap, and has been described by its chief executive, Steve Ballmer, as "not the full release Microsoft wanted" until the multi-touch-enabled Windows Mobile 7 (now replaced by Windows Phone) arrived in 2010.[39] Ballmer also indicated that the company "screwed up with Windows Mobile", he lamented that Windows Mobile 7 was not yet available and that the Windows Mobile team needed to try to recoup losses.[40] Microsoft unveiled this version at the 2009 Mobile World Congress in February,[41] and several devices were supplied with it.[42] It was released to manufacturers on May 11, 2009; the first devices running the operating system appeared in late October 2009.[43] Several phones that officially shipped with Windows Mobile 6.1 can be officially updated to Windows Mobile 6.5.[44] This update includes some significant new added features, such as a revamped GUI, a new Today screen resembling that of Microsoft's Zune player with vertically scrollable labels (called 'Titanium') in terms of functionality with a styling similar to that of Windows 7.[45] WM 6.5 also includes the new Internet Explorer Mobile 6 browser, with improved interface.[46]
+
+Along with Windows Mobile 6.5, Microsoft announced several cloud computing services codenamed "SkyBox", "SkyLine", "SkyMarket".[47] "SkyBox" has been confirmed as My Phone,[48] while "SkyMarket" has been confirmed as Windows Marketplace for Mobile.[49] This version was designed mainly for easier finger usage.[50] Some reviewers have noted interface inconsistencies, with some applications having small buttons making them harder to operate using only a finger.[51] Whilst this version of Windows Mobile does not natively support capacitive screens, mobile manufacturers have been able to use them on their devices.[52]
+
+In the months following this release, development shifted from Windows Mobile to its successor Windows Phone. As such no major upgrades were planned or released, although three minor updates; 6.5.1, 6.5.3 and 6.5.5; were made to satisfy consumers during the transition period. 6.5.1 brings larger user interface elements,[53] including icon based soft buttons (rather than text based),[54] an updated contacts app,[55] native support for A-GPS,[53] improved threaded text messaging,[56] and performance improvements.[57] It was unofficially ported to several Windows Mobile phones.[58]
+
+The second minor update was announced on February 2, 2010, along with the Sony Ericsson Aspen which was the first phone to use this version.[59] 6.5.3 continues the trend of attempting to provide a more finger-friendly user interface with several new usability features such as native support for multitouch; although device maker HTC Corporation created proprietary work-arounds to allow multi-touch to work on some applications it installed on its HD2 handset (However, Microsoft applications on this handset, such as the Internet Explorer web browser, did not support multi-touch.[60]) and drag-and-drop start menu icons. Touchable tiles replaced soft keys."[61] Internet Explorer Mobile 6 has also received some major updates including decreased page load time, improved memory management and gesture smoothing.[62] As with other updates it was unofficially ported to some other devices. Additional features include threaded email and Office Mobile 2010.[63]
+
+The last minor update and the last released version is 6.5.5. It first leaked in January 2010, and was unofficially ported to some Windows Mobile phones.[64] The name Windows Mobile 6.5.5 has been applied to these newer builds, although this name remained unconfirmed by Microsoft.
+Hardware
+See also: List of Windows Mobile devices
+
+There are three main versions of Windows Mobile for various hardware devices:[65]
+
+    Windows Mobile Professional runs on smartphones with touchscreens,
+    Windows Mobile Standard runs on mobile phones without touchscreens,
+    Windows Mobile Classic which runs on personal digital assistant or Pocket PCs.
+
+Windows Mobile for Automotive and Windows Mobile software for Portable Media Centers are among some specialty versions of the platform.
+
+Microsoft had over 50 handset partners,[66] when Windows Mobile was still being shipped on new devices. 80% of the 50 million Windows Mobile devices that were made from launch to February 2009 were built by one contract manufacturing group, HTC, which makes handsets for several major companies under their brands, and under its own brand.[67]
+Embedded Handheld
+See also: Windows IoT § Embedded Handheld
+
+On January 10, 2011, Microsoft announced Windows Embedded Handheld 6.5. The operating system has compatibility with Windows Mobile 6.5 and is presented as an enterprise handheld device, targeting retailers, delivery companies, and other companies that rely on handheld computing. Unlike Windows Phone, Windows Embedded Handheld retains backward compatibility with legacy Windows Mobile applications.[68]
+Pocket PCs
+Main article: Pocket PC
+
+Pocket PCs and personal digital assistants were originally the intended platform for Windows Mobile. These were grouped into two main categories: devices that lacked mobile phone capabilities, and those that included it. Beginning with version 6 devices with this functionality ran "Windows Mobile 6 Professional" and those that lacked it ran "Windows Mobile 6 Classic". Microsoft had described these devices as "a handheld device that enables you to store and retrieve e-mail, contacts, appointments, play multimedia files, games, exchange text messages with MSN Messenger, browse the Web, and more".[69] From a technical standpoint Microsoft also specified various hardware and software requirements such as the inclusion of a touchscreen and a directional pad or touchpad.
+Smartphones
+Main article: Windows Mobile Smartphone
+
+Smartphones were the second hardware platform after Pocket PC to run Windows Mobile, and debuted with the release of Pocket PC 2002. Although in the broad sense of the term "Smartphone", both Pocket PC phones and Microsoft branded Smartphones each fit into this category. Microsoft's use of the term "Smartphone" includes only more specific hardware devices that differ from Pocket PC phones. Such Smartphones were originally designed without touchscreens, intended to be operated more efficiently with only one hand, and typically had lower display resolution than Pocket PCs. Microsoft's focus for the Smartphone platform was to create a device that functioned well as a phone and data device in a more integrated manner.[70]
+Naming conventions for each version 	Pocket PC 2000 	Pocket PC 2002 	Windows Mobile 2003 	Windows Mobile 2003 SE 	Windows Mobile 5.0 	Windows Mobile 6 	Windows Mobile 6.1 	Windows Mobile 6.5
+Pocket PC (without Mobile Phone) 	Pocket PC 2000 	Pocket PC 2002 	Windows Mobile 2003 for Pocket PC 	Windows Mobile 2003 for Pocket PC SE 	Windows Mobile 5.0 for Pocket PC 	Windows Mobile 6 Classic 	Windows Mobile 6.1 Classic 	N/A
+Pocket PC (with Mobile Phone) 	Pocket PC 2000 Phone Edition 	Pocket PC 2002 Phone Edition 	Windows Mobile 2003 for Pocket PC Phone Edition 	Windows Mobile 2003 SE for Pocket PC Phone Edition 	Windows Mobile 5.0 for Pocket PC Phone Edition 	Windows Mobile 6 Professional 	Windows Mobile 6.1 Professional 	Windows Mobile 6.5 Professional
+Smartphone (without touch screen) 	N/A 	Smartphone 2002 	Windows Mobile 2003 for Smartphone 	Windows Mobile 2003 SE for Smartphone 	Windows Mobile 5.0 for Smartphone 	Windows Mobile 6 Standard 	Windows Mobile 6.1 Standard 	Windows Mobile 6.5 Standard
+Market share
+Windows Mobile market share Year 	U.S. marketshare
+2004 	11.3%[71]
+2005 	17%[71]
+2006 	37%[72]
+2007 	42%[72]
+2008 	27%[72]
+2009 	15%[72]
+2010 	7%[72]
+2011 	3%[72]
+present 	<0.1%
+
+Windows Mobile's share of the smartphone market grew from its inception while new devices were being released. After peaking in 2007,[72] it saw decline year-on-year.
+
+In Q1 2003, Windows Mobile was the third largest operating system in the smart handheld market, behind Symbian and Palm OS.[73]
+
+In Q1 2004, Windows Mobile accounted for 23% of worldwide smartphone sales.[74] Windows Mobile was projected in 2005 to overtake Symbian to become the leading mobile OS by 2010.[75] In Q3 2004, Windows Mobile (CE) surpassed Palm OS to become the largest PDA operating system.[76]
+
+In Q4 2005 Microsoft shipped 2.2 million PDAs, which increased to 3.5 million in the same quarter the following year.[77] Windows Mobile saw year over year growth between 2005 and 2006 of 38.8% which according to Gartner "helped Windows Mobile to solidify its stronghold on the market".[77]
+
+But by 2008, its share had dropped to 14%.[78] Microsoft licensed Windows Mobile to four out of the world's five largest mobile phone manufacturers, with Nokia being the exception.[79]
+
+Gartner research data showed that while the total smartphone industry grew 27% between 2008 and 2009, Windows Mobile's share of the smartphone market fell 2.7% in that same period.[80] It also[80] decreased by 20% in Q3 2009.[81] At one time Windows Mobile was the most popular handset for business use,[citation needed] but by 2009 this was no longer the case; 24% of planned business deployments of mobile application in the United States were for Windows Mobile, putting it in 3rd place, behind BlackBerry (61%) and iPhone OS (27%);[82]
+
+In February 2009, Microsoft signed a deal with the third largest mobile phone maker, LG Electronics, to license Windows Mobile OS on 50 upcoming LG smartphone models.[83] But in September 2009, Palm, Inc. announced it would drop Windows Mobile from its smartphone line-up.[84] Gartner estimated that by the third quarter of 2009 Windows Mobile's share of worldwide smartphone sales was 7.9%.[81] By August 2010, it was the least popular smartphone operating system, with a 5% share of the worldwide smartphone market (after Symbian, BlackBerry OS, Android and iOS).[85] An October 2009 report in DigiTimes said that Acer will shift its focus from Windows Mobile to Google Android.[86] The New York Times reported in 2009 that Windows Mobile "is foundering", as cellphone makers desert it in favor of Google's Android phone platform.[87] It cited the difficulties in Microsoft's business model, which involves charging handset manufacturers up to $25 for each copy of Windows Mobile, while rival Google gives away Android for free.[88] From late 2009 analysts and media reports began to express concerns about the future viability of the Windows Mobile platform, and whether Microsoft would keep supporting it into the future.[89][90][91] Samsung announced in November 2009 that it would phase out the Windows Mobile platform,[92] to concentrate on its own Bada operating system, Google's Android, and Microsoft's Windows Phone.[93]
+A Ford Territory with Windows Mobile advertising seen in Auckland, New Zealand, in 2008
+Software development
+See also: Windows Marketplace for Mobile
+
+Software could be developed by third parties for the Windows Mobile operating system. Developers had several options for deploying mobile applications. These included writing native code with Visual C++, managed code that worked with the .NET Compact Framework, writing code in Tcl-Tk with eTcl,[94] GCC using CeGCC,[95] Python using PythonCE or server-side code that could be deployed using Internet Explorer Mobile or a mobile client on a user's device. The .NET Compact Framework was a subset of the .NET Framework and hence shared many components with software development on desktop clients, application servers, and web servers which had the .NET Framework installed, thus integrating networked computing space.[96]
+
+To aid developers Microsoft released software development kits (SDKs) that worked in conjunction with their Visual Studio development environment. These SDKs included emulator images for developers to test and debug their applications while writing them. Software could be tested on a client machine directly or be downloaded to a device. Microsoft also distributed Visual Studio 2008 / 2005 Professional Editions, and server/database counterparts to students as downloads free of charge via its DreamSpark program.[97] Third party integrated development environments could also be used to write software such as Lazarus, Resco MobileForms Toolkit,[98] Lexico, NS Basic and Basic4ppc. Some third party development environments allowed coding to be done on the device itself without the need for a computer.[99]
+
+Developer communities have used the SDK to port later versions of Windows Mobile OS to older devices and making the OS images available for free, thus providing the devices with newer feature sets. Microsoft had tolerated this procedure for some time but decided in February 2007 to ask developers to take their OS images off the net, which in turn raised discussions.[100] At the same time Microsoft offered upgrades to Windows Mobile 6 versions to manufacturers for free.[101]
+
+On July 5, 2009, Microsoft opened a third-party application distribution service called Windows Marketplace for Mobile.[102] In 2011, Windows Marketplace for Mobile stopped accepting new admissions.[103] and then fully closed on May 9, 2012.[2]
+Connectivity
+Main articles: ActiveSync and Windows Mobile Device Center
+
+In the early years of Windows Mobile devices were able to be managed and synced from a remote computer using ActiveSync; a data synchronization technology and protocol developed by Microsoft, originally released in 1996. This allowed servers running Microsoft Exchange Server, or other third party variants, to act as a personal information manager and share information such as email, calendar appointments, contacts or internet favorites.
+
+With the release of Windows Vista, ActiveSync was replaced with Windows Mobile Device Center. Device Center is included with Vista and Windows 7 and provides many front end enhancements, allowing a home user to sync PIM information with Microsoft Outlook 2003 and later, photos from Windows Photo Gallery, videos or music from Windows Media Player and favorites with Internet Explorer; without the need for a server back end. Devices at this time also included a base driver compatible with Mobile Device Center so a user can connect to a computer without a need for any configuration.
+See also
+
+    List of defunct consumer brands
+    telephone icon Telephones portal

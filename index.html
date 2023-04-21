@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MTC.js</title>
+    <script src="JS/thirdparty/stemmer.js"></script>
+    <script src="JS/thirdparty/lzutf8.js"></script>
+    <script src="JS/mtc.js"></script>
+    <style>
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+body {
+    background: #333333;
+}
+* {
+    box-sizing: border-box;
+    font-family: 'Raleway', sans-serif;
+    cursor: default;
+    font-size: 16px;
+}
+a {
+    cursor: pointer;
+}
+table, td, button, input {
+    border-radius: 5px;
+}
+table {
+    position: fixed;
+    width: 40vw;
+    top: 100px;
+    left: 50vw;
+    transform: translate(-50%, 0);
+    text-align: center;
+}
+td {
+    height: 45px;
+    background: #CCCCCC;
+    text-transform: capitalize;
+}
+.model-info {
+    position: fixed;
+    bottom: 15px;
+    left: 15px;
+    color: #CCCCCC;
+}
+.question {
+    position: fixed;
+    top: 30px;
+    left: 10vw;
+    width: calc(100vw - calc(20vw + 150px));
+    height: 50px;
+    background: #CCCCCC;
+}
+button {
+    position: fixed;
+    top: 30px;
+    right: 10vw;
+    width: 150px;
+    height: 50px;
+    background: #CCCCCC;
+}
+a, li {
+    color: #CCCCCC;
+    text-decoration: none;
+    list-style-type: none;
+    padding: 10px;
+}
+ul {
+    position: fixed;
+    top: 220px;
+    left: 10vw;
+    width: 80vw;
+    height: auto;
+    overflow-x: hidden;
+    overflow-y: auto;
+    height: calc(100% - 280px);
+}
+@media only screen and (max-width: 800px) {
+    table {
+        width: 80vw;
+    }
+}
+    </style>
+</head>
+<body>
+    <div class="model-info">Model is not loaded yet</div>
+    <input class="question" />
+    <button onclick="predict(document.querySelector('.question').value);">Make a prediction</button>
+    <table>
+        <tr>
+            <td class="cat-1">?</td>
+            <td class="res-1">50%</td>
+        </tr>
+        <tr>
+            <td class="cat-2">?</td>
+            <td class="res-2">50%</td>
+        </tr>
+    </table>
+    <script>
+        predict = (text)=>{
+            document.querySelector('.question').value = text;
+            let res = mtc.make_predict(model, categories, text);
+            document.querySelector(".res-1").innerText = String(res[0]/(res[0]+res[1])*100).substring(0,5)+"%";
+            document.querySelector(".res-2").innerText = String(res[1]/(res[0]+res[1])*100).substring(0,5)+"%";
+        }
+
+        (async () => {
+            mtc.init();
+            let [model, categories] = await mtc.load_model("model.mtc");
+            window.model = model;
+            window.categories = categories;
+            document.querySelector(".cat-1").innerText = categories[0];
+            document.querySelector(".cat-2").innerText = categories[1];
+            document.querySelector(".model-info").innerText="Model is ready!";
+        })();
+    </script>
+    <ul>
+    <li><a href="#" onclick="predict('It uses gpl license');">It uses gpl license</a> -> Linux </li>
+    <li><a href="#" onclick="predict('Bill Gates developed it');">Bill Gates developed it</a> -> Windows </li>
+    <li><a href="#" onclick="predict('Unix similar operating system');">Unix similar operating system</a> -> Linux </li>
+    <li><a href="#" onclick="predict('Fedora based on this kernel');">Fedora based on this kernel</a> -> Linux </li>
+    <li><a href="#" onclick="predict('It\'s used on Pocket PC');">It's used on Pocket PC</a> -> Windows </li>
+    <li><a href="#" onclick="predict('Live thumbails is used in it');">Live thumbails is used in it</a> -> Windows </li>
+    <li><a href="#" onclick="predict('Canonical developed a distro that based on it');">Canonical developed a distro that based on it</a> -> Linux </li>
+    </ul>
+</body>
+</html>
