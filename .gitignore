@@ -1,4 +1,4 @@
 *.log
-*.mtc
+*.mcm
 *.json
-!model.mtc
+!model.mcm
