@@ -1,4 +1,6 @@
 *.log
 *.mcm
+*.umcm
+*.pyc
 *.json
 !model.mcm

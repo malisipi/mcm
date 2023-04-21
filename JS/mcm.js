@@ -57,7 +57,7 @@ mcm = {
         return data;
     },
     make_predict: (m, c, s) => {
-        let data = mcm.remove_unrequired_things(s);
+        let data = mcm.remove_unrequired_things(" "+s+" ");
         res = [];
         for(let i=0;i<c.length;i++) res[i]=0;
 

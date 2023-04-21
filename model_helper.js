@@ -6,6 +6,7 @@ var mcm = require("./JS/mcm.js");
     let model = mcm.create_weights(training_resources, categories);
 
     await mcm.write_model(model, categories, "./model.mcm");
+    //await mcm.write_model_uncompressed(model, categories, "./model.umcm");
     //let [model, categories] = await mcm.load_model("./model.mcm");
 
     //let res = mcm.make_predict(model, categories, "it is licensed with gpl");

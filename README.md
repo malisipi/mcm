@@ -15,12 +15,44 @@
 * It can be trained without any CPU and GPU requirenment
 * Mini sized models (The example model is about 50KB)
 
-# TO-DO
+# Support & TO-DO
 
-- [x] Make NodeJS/JavaScript version
-- [x] Make Browser/JavaScript version
+- [ ] Make NodeJS/JavaScript version
+  - [x] init
+  - [x] create_resources_from_files
+  - [x] create_weights
+  - [x] save_model
+  - [x] save_model_uncompressed
+  - [x] load_model
+  - [x] load_model_uncompressed
+  - [x] make_predict
+  - [ ] analyse_prediction
+- [ ] Make Browser/JavaScript version
+  - [x] init
+  - [x] load_model
+  - [x] load_model_uncompressed
+  - [x] make_predict
+  - [ ] analyse_prediction
 - [ ] Make Python version
+  - [x] init
+  - [ ] create_resources_from_files
+  - [ ] create_weights
+  - [ ] save_model
+  - [ ] save_model_uncompressed
+  - [ ] load_model
+  - [x] load_model_uncompressed
+  - [x] make_predict
+  - [x] analyse_prediction
 - [ ] Make V version
+  - [ ] init
+  - [ ] create_resources_from_files
+  - [ ] create_weights
+  - [ ] save_model
+  - [ ] save_model_uncompressed
+  - [ ] load_model
+  - [ ] load_model_uncompressed
+  - [ ] make_predict
+  - [ ] analyse_prediction
 
 ## Usage
 
@@ -39,10 +71,13 @@
 \ 📁️ category-n
 ```
 
-## Used Softwares
+## Used Libraries
 
-* Stemmer library (patched for compability) https://www.npmjs.com/package/stemmer - MIT License
-* LZUTF-8 library https://github.com/rotemdan/lzutf8.js/ - MIT License
+* Javascript libraries
+  * Stemmer library (patched for compability) https://www.npmjs.com/package/stemmer - MIT License
+  * LZUTF-8 library https://github.com/rotemdan/lzutf8.js/ - MIT License
+* Python libraries
+  * Stemmer library https://pypi.org/project/snowballstemmer/ - BSD-3-Clause License
 
 ## Articles & Model
 
